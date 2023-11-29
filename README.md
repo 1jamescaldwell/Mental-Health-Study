@@ -1,4 +1,6 @@
 # Mental-Health-Study
+Personal project 
+
 Objective:
 Build a machine learning model that evaluates a person's demographic and works status to predict a need for extra mental health care.
 
