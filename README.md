@@ -8,7 +8,7 @@ Work in progress 11/28/23 <br>
 (Complete) Data Collection <br>
 (In progress)  Data Preprocessing <br>
 (In progress)  Exploratory Data Analysis <br>
-(Incomplete) Model Selection <br>
+(In progress) Model Selection - Logistic Regression seems like a good choice for this data <br>
 (Incomplete)  Model Training/Evaluation <br>
 (Incomplete)  Interpretation <br>
 
