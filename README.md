@@ -20,5 +20,4 @@ Some of the initial findings from this study: I know that interpretations should
  * Gender: being female (1) has an increase in the log-odds likelihood of seeking treatment
  * Family history: The strongest coefficient. If your family had treatment history, you seem much more likely to have as well
  * Self employed: The only negative correlation thus far. So saying Yes to being self employed means you were LESS likely to have needed/sought mental health treatment.
-
-Tech company: Initially, it seems like working for a tech company has little effect on whether or not you might need to seek mental health treatment.
+ * Tech company: Initially, it seems like working for a tech company has little effect on whether or not you might need to seek mental health treatment.
