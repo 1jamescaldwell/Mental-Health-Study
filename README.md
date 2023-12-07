@@ -17,9 +17,8 @@ From this project, I further developed my python skills with Pandas, NumPy, Matp
 I have completed an initial model and analyzed some of the easier parts of this data. 12/7/23 I hope to spend more time to improve the model and add more variables for analysis to my model. Next, I am most interested in studying a person's location/geography and its possible correlation to mental health. 
 
 Some of the initial findings from this study:
-Initial observations: I know that interpretations should be done cautiously, and for now, I'm not considering statistical significance, multicollinearity, and other complexities. Logistic regression coefficients represent changes in log-odds of the dependent variable ('treatment' here), so interpretations for now are general.
-
-Gender: being female (1) has an increase in the log-odds likelihood of seeking treatment
+  * Initial observations: I know that interpretations should be done cautiously, and for now, I'm not considering statistical significance, multicollinearity, and other complexities. Logistic regression coefficients represent changes in log-odds of the dependent variable ('treatment' here), so interpretations for now are general.
+  * Gender: being female (1) has an increase in the log-odds likelihood of seeking treatment
 
 Family history: The strongest coefficient. If your family had treatment history, you seem much more likely to have as well
 
